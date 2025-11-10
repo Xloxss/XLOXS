@@ -37,32 +37,32 @@ var lyricsData = [
   // BU SATIRLAR (+2) +2 SANİYE KAYDIRILMIŞTI
   { text: "All rejoicing in the world", time: 67, position: 'left' }, 
   { text: "Take me now", time: 69, position: 'right' },
-  { text: "we can try", time: 71, position: 'right' },
+  { text: "We can try", time: 71, position: 'left' },
 	
   // Bu satırlar en son +1 saniye kaydırılmıştı (+2 saniye eklenmişti)
-  { text: "I can't do well", time: 73, position: 'left' }, 
-  { text: "When I think you're gonne leave me", time: 75, position: 'right' }, 
-  { text: "But I know I try", time: 77, position: 'left' }, 
-  { text: "Are you gonna leave me now?", time: 80, position: 'right' }, 
+  { text: "I can't do well", time: 73, position: 'right' }, 
+  { text: "When I think you're gonne leave me", time: 75, position: 'left' }, 
+  { text: "But I know I try", time: 77, position: 'right' }, 
+  { text: "Are you gonna leave me now?", time: 80, position: 'left' }, 
 
-  { text: "Can't you be believing now?", time: 83, position: 'left' }, 
-  { text: "I can't do well", time: 87, position: 'right' }, 
-  { text: "When I think you're gonna leave me", time: 89, position: 'left' }, 
-  { text: "But I know I try", time: 90, position: 'right' }, 
+  { text: "Can't you be believing now?", time: 83, position: 'right' }, 
+  { text: "I can't do well", time: 87, position: 'left' }, 
+  { text: "When I think you're gonna leave me", time: 89, position: 'right' }, 
+  { text: "But I know I try", time: 90, position: 'left' }, 
   
-  { text: "Are you gonna leave me now?", time: 94, position: 'left' }, 
-  { text: "Can't you be believing now?", time: 97, position: 'right' }, 
+  { text: "Are you gonna leave me now?", time: 94, position: 'right' }, 
+  { text: "Can't you be believing now?", time: 97, position: 'left' }, 
     
   // BU SATIR VE SONRASINDAKİ TÜM ZAMANLARA EKSTRA 3 SANİYE EKLENDİ.
   // 101 + 3 = 104
-  { text: "I know everything about you", time: 104, position: 'left' }, 
-  { text: "You know everything about me", time: 108, position: 'right' }, // 104 + 3 = 107
+  { text: "I know everything about you", time: 104, position: 'right' }, 
+  { text: "You know everything about me", time: 108, position: 'left' }, // 104 + 3 = 107
     
   // Nakarat Tekrarı
-  { text: "We know everything about us ", time: 113, position: 'left' }, // 107 + 3 = 110
-  { text: "I know everythin about you", time: 120, position: 'right' }, // 114 + 3 = 117
-  { text: "You know everything about me", time: 124, position: 'left' }, // 118 + 3 = 121
-  { text: "We know everything about us", time: 128, position: 'right' }, // 122 + 3 = 125
+  { text: "We know everything about us ", time: 113, position: 'right' }, // 107 + 3 = 110
+  { text: "I know everythin about you", time: 120, position: 'left' }, // 114 + 3 = 117
+  { text: "You know everything about me", time: 124, position: 'right' }, // 118 + 3 = 121
+  { text: "We know everything about us", time: 128, position: 'left' }, // 122 + 3 = 125
 
   // Özel Mesajlar (Ortada gösterilecek)
   { text: "DOĞUM GÜNÜN KUTLU OLSUN!", time: 133, position: 'center' }, // 130 + 3 = 133
