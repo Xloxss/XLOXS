@@ -42,13 +42,13 @@ var lyricsData = [
   // Bu satırlar en son +1 saniye kaydırılmıştı (+2 saniye eklenmişti)
   { text: "I can't do well", time: 73, position: 'right' }, 
   { text: "When I think you're gonne leave me", time: 75, position: 'left' }, 
-  { text: "But I know I try", time: 77, position: 'right' }, 
+  { text: "But I know I try", time: 78, position: 'right' }, 
   { text: "Are you gonna leave me now?", time: 80, position: 'left' }, 
 
   { text: "Can't you be believing now?", time: 83, position: 'right' }, 
   { text: "I can't do well", time: 87, position: 'left' }, 
   { text: "When I think you're gonna leave me", time: 89, position: 'right' }, 
-  { text: "But I know I try", time: 90, position: 'left' }, 
+  { text: "But I know I try", time: 92, position: 'left' }, 
   
   { text: "Are you gonna leave me now?", time: 94, position: 'right' }, 
   { text: "Can't you be believing now?", time: 97, position: 'left' }, 
@@ -67,6 +67,7 @@ var lyricsData = [
   // Özel Mesajlar (Ortada gösterilecek)
   { text: "DOĞUM GÜNÜN KUTLU OLSUN!", time: 133, position: 'center' }, // 130 + 3 = 133
   { text: "UMARIM HER YAŞIN KENDİN KADAR GÜZEL OLUR...", time: 137, position: 'center' }, // 134 + 3 = 137
+	{ text:"BEN BURDA OLMASAM BİLE BU SİTE HER ZAMAN SENİN İÇİN BURADA OLACAK",time:147,position: 'center'},
 ];
 
 // Sözleri sıfırlayan yardımcı fonksiyon
